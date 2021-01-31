@@ -13,8 +13,11 @@
 
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
-    "Yog.yog-plantuml-highlight",
-    "jebbs.plantuml"
+    	"Yog.yog-plantuml-highlight",
+    	"jebbs.plantuml",
+		"mutantdino.resourcemonitor",
+		"auchenberg.vscode-browser-preview",
+		"cssho.vscode-svgviewer"
   ],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
